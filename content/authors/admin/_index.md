@@ -83,8 +83,8 @@ skills:
       - name: Música
         description: ''
         percent: 70
-        icon: :musical_keyboard:	
-        icon_pack: emoji
+        icon: 🎹	
+        icon_pack:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
