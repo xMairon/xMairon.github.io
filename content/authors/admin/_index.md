@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: Ismael Mirón Sáez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 
+last_name: 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌐🔐
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ingeniero Superior en Telecomunicaciones
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,62 +29,62 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Redes
+  - Ciberseguridad
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Máster en Ingeniería de Telecomunicación
+      institution: Universidad de Alicante
+      year: 2022
+    - course: Experto en Tecnologías y Certificaciones de Telecomunicaciones
+      institution: Universidad de Alicante
+      year: 2019
+    - course: Grado en Ingeniería en Sonido e Imagen en Telecomunicación
+      institution: Universidad de Alicante
+      year: 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Técnicas
     items:
     - name: Python
       description: ''
-      percent: 80
+      percent: 50
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: Redes
       description: ''
-      percent: 100
-      icon: chart-line
+      percent: 60
+      icon: network-wired
       icon_pack: fas
-    - name: SQL
+    - name: Ciberseguridad
       description: ''
       percent: 40
-      icon: database
+      icon: shield-halved
       icon_pack: fas
-  - name: Hobbies
+  - name: Aficiones
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Deporte
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: dumbbell
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Cocina
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: fire-burner
         icon_pack: fas
+      - name: Música
+        description: ''
+        percent: 70
+        icon: :musical_keyboard:	
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -105,10 +105,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/xMairon
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ismael-m-s/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
